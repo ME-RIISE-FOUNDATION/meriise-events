@@ -8,12 +8,14 @@ import Event21 from "./pages/Event21";
 import Event20 from "./pages/Event20";
 import Event19 from "./pages/Event19";
 import Event18 from "./pages/Event18";
+import Event26 from "./pages/Event26";
 
 function App() {
   return (
     <Routes>
       <Route exact path="/" element={<Home />} />
       {/* <Route exact path="/" element={<Event23 />} /> */}
+      <Route exact path="/events26" element={<Event26 />} />
       <Route exact path="/events25" element={<Event25 />} />
       <Route exact path="/events24" element={<Event24 />} />
       <Route exact path="/events23" element={<Event23 />} />
