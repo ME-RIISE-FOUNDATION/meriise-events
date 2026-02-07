@@ -6,6 +6,226 @@ function Event24() {
             <Header />
             <div className="lg:grid lg:grid-cols-2 lg:gap-4">
                 {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
+                {/* <Carousel
+                    images={[
+                        "/assets/events24/RQPP4.jpeg",
+                        "/assets/events24/RQPP3.png",
+                    ]}
+                    title="Research Quest- Problem to paper"
+                    description="An inspiring session hosted by eduTechSphere in collaboration with the ME-RIISE Foundation 
+                    empowered students to tackle real-world problems with research-oriented solutions.Under the insightful 
+                    guidance of Mr. Prathamesh Joshi and Mr. Mohammad Fahad Khan, participants delved into the core principles 
+                    of Design Thinking—Empathize, Define, Ideate, Prototype, and Test—through interactive activities and 
+                    powerful project showcases.Innovative solutions like the Arecanut Plucker and the AI-Powered Cancer Detector 
+                    stood out, proving how research can create meaningful societal impact.A truly inspiring day of creativity, 
+                    critical thinking, and innovation!."
+                    date="14th June,2025"
+                />
+                <Carousel
+                    images={[
+                        "/assets/events24/innovator1.jpg",
+                        "/assets/events24/innovator2.jpg",
+                        "/assets/events24/innovator3.jpg",
+                        "/assets/events24/innovator4.jpg",
+                        "/assets/events24/innovaor5.jpg",
+                    ]}
+                    title="Innovator to Entrepreneur: A Startup Readiness Session"
+                    description="ME-RIISE FOUNDATION successfully hosted – “Innovator to Entrepreneur: A Startup Readiness 
+                    Session” today at Malnad College of Engineering, Hassan, supported by NAIN 2.0 (New Age Innovation Network) 
+                    and the Department of Electronics, IT, BT and S&T, Government of Karnataka.We were honored to have Sri. 
+                    Ananth Ravi and Mr. Chetan Shirnali with us for this impactful session, which focused on Raising Capital 
+                    and Managing Finance for innovators and aspiring entrepreneurs.Malnad College of Engineering proudly serves 
+                    as the Program Monitoring Partner (PMP) under the Rajiv Gandhi Entrepreneurship Program (RGEP). Four 
+                    innovators are actively working with us under this program, and they had the valuable opportunity to be 
+                    mentored by today’s experts.As part of the event, research internship certificates were also awarded to 
+                    students who successfully completed their 15-week research internship.A big thank you to our speakers, 
+                    innovators, and participants for making the session highly engaging and insightful.."
+                    date="27th May,2025"
+                />
+                <Carousel
+                    images={[
+                        "/assets/events24/Alumni insights 1.jpeg",
+                        "/assets/events24/Alumni insights.jpg",
+                    ]}
+                    title="Bridging Generations - Alumni Insights"
+                    description="From Leadership to Life Lessons. The second session today with Mr. Satyesh Bellur, Ex–Senior Vice President at Tejas Networks, was both insightful and inspiring. Centered around the theme “Business Etiquette – What is it all about?”, the discussion offered valuable perspectives—not just on professional conduct, but also on broader lessons in leadership and personal growth.."
+                    date="24th May,2025"
+                />
+                <Carousel
+                    images={[
+                        "/assets/events24/PCB.jpeg",
+                        "/assets/events24/PCB2.jpeg",
+                        "/assets/events24/PCB3.jpeg",
+                    ]}
+                    title="Routing Hackathon with PCB"
+                    description="The ME-RIISE FOUNDATION, in collaboration with the Department of Electrical and Electronics Engineering, Malnad College of Engineering, successfully organized a 3-day event titled “Routing Hackathon with PCB” from 15th May 2025, under the New Age Innovation Network 2.0 (NAIN 2.0) initiative.The hackathon provided a dynamic platform for students to engage in practical learning through PCB design and routing. Participants had the opportunity to apply their technical skills, develop innovative solutions, and gain hands-on experience in solving real-world engineering challenges. The event also encouraged collaboration, creativity, and critical thinking—key qualities for future innovators.The event was graced by esteemed dignitaries from MTES(R) and MCE, who appreciated the initiative and motivated students to pursue innovation with purpose.."
+                    date="15th to 17th May, 2025"
+                />
+                <Carousel
+                    images={[
+                        "/assets/events24/UI workshop 1.png",
+                        "/assets/events24/UI workshop 2.png",
+                        "/assets/events24/UI workshop 3.png",
+                        "/assets/events24/UI workshop 4.png",
+                    ]}
+                    title="UI/UX Workshop"
+                    description="The UI/UX Workshop by EduTechSphere at ME-RIISE Foundation was a huge success! Participants immersed themselves in user interface and experience design, engaging in hands-on activities and insightful discussions. They showcased impressive app designs, reflecting creativity and strong user-focused principles. The event concluded with enthusiastic participation and glowing feedback, marking a truly impactful learning experience!."
+                    date="26th April,1st and 4th May,2025"
+                />
+                <Carousel
+                    images={[
+                        "/assets/events24/alumnitalk01.jpeg",
+                        "/assets/events24/alumnitalk02.jpeg",
+                    ]}
+                    title="Bridging Generations - Alumni Insights"
+                    description="A powerful start to Bridging Generations – Alumni Insights by @ME-RIISE Foundation at MCE, Hassan! We were honored to host Giri Devanur, Founder & CEO of ReAlpha and a two-time NASDAQ IPO leader, for the inaugural session. His insights on the 4S framework — Sankalpa, Shraddha, Sadhana, Siddhi — inspired all with timeless wisdom from the Yoga Sutras. Grateful to Geetha Kiran A and Krishnaswamy Subbarao for making this happen!."
+                    date="26th April,2025"
+                />
+                <Carousel
+                    images={[
+                        "/assets/events24/Con1.jpeg",
+                        "/assets/events24/Con2.jpeg",
+                        "/assets/events24/Con3.jpeg",
+                        "/assets/events24/Con4.jpeg",
+                    ]}
+                    title="Concept to Customer: Essential Startup Roadmap"
+                    description="IIIT Bangalore, facilitated a workshop Concept to Customer: Essential Startup Roadmap program under the New Age Innovation Network (NAIN) 2.0 at MCE, Hassan on 28th March, 2026. Around 60 students participated in the event. The event aimed to provide students with in-depth knowledge and essential skills in entrepreneurship, innovation, and the startup ecosystem, empowering them to transform their ideas into successful ventures."
+                    date="28th March,2025"
+                />
+                <Carousel
+                    images={[
+                        "/assets/events24/codex1.jpeg",
+                        "/assets/events24/codex2.jpeg",
+                        "/assets/events24/codex3.jpeg",
+                        "/assets/events24/codex4.jpeg",
+                    ]}
+                    title="Codex-2025"
+                    description="Learn UI/UX principles and Figma basics, then design forms, navigation, and mobile app interfaces. Build projects, prototype, and gather user feedback for improvement."
+                    date="26th March,2025"
+                />
+                <Carousel
+                    images={[
+                        "/assets/events24/VC1.jpeg",
+                        "/assets/events24/VC2.jpeg",
+                        "/assets/events24/VC3.jpeg",
+                        "/assets/events24/VC4.jpeg",
+                        "/assets/events24/VC5.jpeg",
+                    ]}
+                    title="Collaboration meeting with the Vice-Chancellors of Kodagu and Hassan University on 12th March, 2025 at MCE"
+                    description="The meeting aimed to explore potential areas of collaboration between Malnad College of Engineering (MCE), ME-RIISE Foundation, and Kodagu & Hassan University. The key focus was on initiatives promoting entrepreneurship, skill enhancement, and innovation-led development within the region."
+                    date="12th March,2025"
+                />
+                <Carousel
+                    images={[
+                        "/assets/events24/VAI1.jpeg",
+                    ]}
+                    title="Workshop on Visual AI Technology"
+                    description="A workshop on Visual AI Technology was organized on 4th March, 2025 in association with Xen Reality Technologies, Bengaluru. The resource persons for the session were Ms. Zeba Khan, CEO of Xen Reality Technologies, and Mr. Rishab Shivkumar, Head of Product at Xen Reality Technologies."
+                    date="04th March,2025"
+                />
+                <Carousel
+                    images={[
+                        "/assets/events24/VP1.JPG",
+                        "/assets/events24/VP2.jpeg",
+                    ]}
+                    title="Validictory Program on Digital Skills"
+                    description="The Valedictory Program on Digital Skills held on March 1st, 2025, organized by ME-RIISE Foundation under the leadership of CEO Dr. Geetha Kiran A. During the event, internship certificates were awarded to 67 students. The chief guests were Mr. Yathiswar, Principal of AVK College, and Dr. Nanditha B. R."
+                    date="1st March,2025"
+                />
+                <Carousel
+                    images={[
+                        "/assets/events24/EV1.jpeg",
+                        "/assets/events24/EV2.jpeg",
+                        "/assets/events24/EV3.jpeg",
+                    ]}
+                    title="Exposure Visit to NAIN 2.0"
+                    description="32 students and 3 faculty members of Surana College, Bangalore, visited Malnad College of Engineering (MCE) on 25th February 2025, for an Exposure Visit to the New Age Innovation Network (NAIN) facility. The visit fostered collaboration under the Institution’s Innovation Council (IIC)."
+                    date="25th February,2025"
+                />
+                <Carousel
+                    images={[
+                        "/assets/events24/NSD1.jpeg",
+                        "/assets/events24/NSD2.jpeg",
+                    ]}
+                    title="National Startup Day"
+                    description="The ME-RIISE Foundation, in collaboration with MSME DFO Bangalore, inauguration of National Start-up Day, aimed at celebrating and fostering the entrepreneurial spirit."
+                    date="17th January,2025" */}
+                {/* /> */}
+                <Carousel
+                    images={[
+                        "/assets/events24/ECD1.jpg",
+                        "/assets/events24/ECD2.jpg",
+                        "/assets/events24/ECD3.jpg",
+                        "/assets/events24/ECD4.jpg",
+                    ]}
+                    title="Energy Conservation Day"
+                    description="Energy Conservation Day, observed on December 14th every year in India, aims to raise awareness about the importance of saving energy and using it more efficiently. The objective of the day is to encourage people to adopt energy-saving practices in their daily lives, reduce energy consumption, and promote sustainable energy solutions."
+                    date="16th December,2024"
+                />
+                <Carousel
+                    images={[
+                        "/assets/events24/SK19.jpeg",
+                        "/assets/events24/SK20.jpeg",
+                        "/assets/events24/SK21.jpeg",
+                        "/assets/events24/SK22.jpeg",
+                        "/assets/events24/SK23.jpeg",
+                        "/assets/events24/SK24.jpeg",
+
+                    ]}
+                    title="Shark Tank 3.0"
+                    description="Shark Tank 3.0, organized by the ME-RIISE Foundation, was a remarkable event that provided a dynamic platform for entrepreneurs to showcase their innovative business ideas to potential investors. The event, held on 14th December 2024 at Anantya Palace Grounds, successfully facilitated funding, mentorship, and networking opportunities."
+                    date="14th December,2024"
+                />
+                <Carousel
+                    images={[
+                        "/assets/events24/TT1.jpg",
+                        "/assets/events24/TT2.jpg",
+                        "/assets/events24/TT3.jpg",
+                        "/assets/events24/SK15.jpeg",
+                        "/assets/events24/SK16.jpeg",
+                        "/assets/events24/SK17.jpeg",
+                        "/assets/events24/SK18.jpeg",
+                    ]}
+                    title="Tech Talk 1.0"
+                    description="The Tech Talk on 14th December 2024, organized by the ME-RIISE Foundation at Anantya Palace Grounds, Bangalore, was a resounding success. It served as a powerful platform for fostering knowledge-sharing and innovation, with speakers addressing pivotal topics in emerging technologies"
+                    date="14th December,2024"
+                />
+                <Carousel
+                    images={[
+                        "/assets/events24/SK4.jpg",
+                        "/assets/events24/SK5.jpg",
+                        "/assets/events24/SK6.jpg",
+                        "/assets/events24/SK7.jpg",
+                        "/assets/events24/SK8.jpg",
+                        "/assets/events24/SK9.jpg",
+                        "/assets/events24/SK10.jpg",
+                        "/assets/events24/SK11.jpg",
+                        "/assets/events24/SK12.jpg",
+                        "/assets/events24/SK13.jpg",
+                        "/assets/events24/SK14.jpg", 
+                    ]}
+                    title="Trade Show 4.0"
+                    description="The Trade Show held on 14th December 2024 at Anantya Palace Grounds, Bangalore, organized by ME-RIISE Foundation, successfully provided a platform for businesses to increase brand visibility, generate leads, and network with industry professionals. The event highlighted a diverse range of innovative products and services from various sectors, including construction, education, technology, real estate, and more. Key takeaways included establishing valuable connections with potential clients, gaining insights into industry trends, and positioning firms as trusted leaders in their respective fields. The event was instrumental in fostering relationships, promoting expertise, and advancing business growth."
+                    date="14th December,2024"
+                />
+                 <Carousel
+                    images={[
+                        "/assets/events24/TIE1.jpg",
+                        "/assets/events24/TIE2.jpg",
+                        "/assets/events24/TIE3.jpg", 
+                    ]}
+                    title="TIE Global Submit 2024"
+                    description="TIE Global Summit announced as the MCE is Satellite Host College and virtual sessions planned for students, the summit ensures its reach extends to the next generation of entrepreneurs. This initiative underscores TIE’s commitment to fostering a global entrepreneurial community that thrives on the integration of ancient wisdom and cutting-edge business practices."
+                    date="09th to 12th December,2024"
+                />
+                <Carousel
+                    images={[
+                        "/assets/events24/Intuicent.jpeg",
+                    ]}
+                    title="ME-RIISE Foundation has MoU with Intuicent Innovations Private Limited"
+                    description="ME-RIISE Foundation and Intuicent Innovations Pvt. Ltd. signed an MoU to Establish Centre of Excellence for Cybersecurity, IoT, and Digital Forensics. The CoE will serve as a platform to equip students with practical knowledge and skills in emerging technologies, focusing on key areas such as cybersecurity, the Internet of Things (IoT), and digital forensics. The initiative also aims to encourage cutting-edge research and consultancy services, paving the way for industry-academia collaboration."
+                    date="30th November,2024"
+                />
                 <Carousel
                     images={[
                         "/assets/events24/SK1.JPG",
@@ -60,6 +280,18 @@ function Event24() {
                 />
                 <Carousel
                     images={[
+                        "/assets/events24/BTS1.jpg",
+                        "/assets/events24/BTS2.jpg",
+                        "/assets/events24/BTS3.jpg",
+                        "/assets/events24/BTS4.jpg",
+                        "/assets/events24/BTS5.jpg", 
+                    ]}
+                    title="Bangalore Tech Summit 2024"
+                    description="To showcase our innovative solutions and network with industry leaders at the Bangalore Tech Summit held on November 21st, 2024. To explore emerging technologies, gain insights, and identify collaboration opportunities to drive future growth. To establish our presence as a forward-thinking organization committed to leveraging technology for impactful outcomes."
+                    date="21st November,2024"
+                />
+                <Carousel
+                    images={[
                         "/assets/events24/PBI1.jpeg",
                         "/assets/events24/PBI2.jpeg",
                         "/assets/events24/PBI3.jpeg",
@@ -79,6 +311,15 @@ function Event24() {
                     title="Pathways to Global Education"
                     description="Dr. Geetha Kiran A, Dean (Corporate Affairs) of Malnad College of Engineering, attended an orientation session for graduate schools in the USA at Mangalore Institute of Technology & Engineering (MITE), Mangalore, on 26th October, 2024 along with Dr. Mohana Lakshmi J, Associate Dean (Corporate Affairs) and students aspiring to pursue higher education abroad."
                     date="26th October,2024"
+                />
+                <Carousel
+                    images={[
+                        "/assets/events24/JF1.jpeg",
+                        "/assets/events24/JF2.jpeg",
+                    ]}
+                    title="Job Fair"
+                    description="ME-RIISE Foundation is organized the Job Fair for recruitment in a manufacturing sector for candidates with SSLC, PUC, degree, ITI and diploma. To connect job seekers with potential employers, providing opportunities for networking, career advancement, and skill development."
+                    date="18th October,2024"
                 />
                 <Carousel
                     images={[
@@ -191,6 +432,14 @@ function Event24() {
                     description="One-day workshop was held as titled 'Excel Essentials,' which equipped industry and working professionals with essential skills in computer hardware and Excel, enhancing their productivity and efficiency in the workplace."
                     date="24th July, 2024"
                 />
+                <Carousel 
+                   images={["/assets/events24/Ig1.jpeg",
+                    "/assets/events24/Ig2.jpeg",
+                    "/assets/events24/Ig3.jpeg",
+                ]}
+                    title="Igniting Young Mind 5.0"
+                    description="To inspire and empower students of GHS School, Megalakere, Channarayapatna to think creatively and develop innovative solutions to real-world problems through hands-on learning and mentorship."
+                    date="21st June 2024" />
                 <Carousel
                     images={[
                         "/assets/events24/P1.jpeg",
@@ -222,7 +471,6 @@ function Event24() {
           Visited MIT, Mysuru under the Mentor – mentee Programme of IIC. Dr. Geetha Kiran A provided insights on the activities conducted by MCE and guided IIC members of MIT to organize good number of activities in Q4 to achieve better star ratings. "
                     date="26th June, 2024"
                 />
-
 
                 <Carousel images={["/assets/events24/bit1.jpg",
                     "/assets/events24/bit2.jpg",
